@@ -1,0 +1,89 @@
+2018-02-13 23:51:01,466 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-02-13 23:52:03,217 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.uji.badenas:nuevoProyecto:1.0-SNAPSHOT @ C:\Users\Jorge\MavenProjects\nuevoProyecto\pom.xml.
+2018-02-13 23:52:05,551 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nuevoProyecto/src/main/java
+2018-02-13 23:52:05,554 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nuevoProyecto/src/test/java
+2018-02-13 23:52:07,602 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2018-02-13 23:52:08,944 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-13 23:52:08,946 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\main\resources
+2018-02-13 23:52:08,948 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-13 23:52:08,950 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\test\resources
+2018-02-13 23:56:21,013 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.uji.badenas:nuevoProyecto:1.0-SNAPSHOT @ C:\Users\Jorge\MavenProjects\nuevoProyecto\pom.xml.
+2018-02-13 23:56:21,458 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-13 23:56:21,460 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\main\resources
+2018-02-13 23:56:21,463 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-13 23:56:21,464 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\test\resources
+2018-02-13 23:56:27,010 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-13 23:56:27,011 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\main\resources
+2018-02-13 23:56:27,013 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-13 23:56:27,014 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\test\resources
+2018-02-13 23:56:39,660 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-13 23:56:40,132 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.uji.badenas:nuevoProyecto:1.0-SNAPSHOT @ C:\Users\Jorge\MavenProjects\nuevoProyecto\pom.xml.
+2018-02-13 23:56:40,321 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nuevoProyecto/src/main/java
+2018-02-13 23:56:40,322 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nuevoProyecto/src/test/java
+2018-02-13 23:56:40,629 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-02-13 23:56:40,801 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-13 23:56:40,802 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\main\resources
+2018-02-13 23:56:40,806 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-13 23:56:40,807 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\test\resources
+2018-02-13 23:57:20,909 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-13 23:57:21,375 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.uji.badenas:nuevoProyecto:1.0-SNAPSHOT @ C:\Users\Jorge\MavenProjects\nuevoProyecto\pom.xml.
+2018-02-13 23:57:21,547 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nuevoProyecto/src/main/java
+2018-02-13 23:57:21,548 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nuevoProyecto/src/test/java
+2018-02-13 23:57:21,702 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-02-13 23:57:21,901 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-13 23:57:21,902 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\main\resources
+2018-02-13 23:57:21,905 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-13 23:57:21,906 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\test\resources
+2018-02-14 00:03:36,374 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-14 00:03:37,571 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.uji.badenas:nuevoProyecto:1.0-SNAPSHOT @ C:\Users\Jorge\MavenProjects\nuevoProyecto\pom.xml.
+2018-02-14 00:03:37,862 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nuevoProyecto/src/main/java
+2018-02-14 00:03:37,863 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nuevoProyecto/src/test/java
+2018-02-14 00:03:37,983 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-02-14 00:03:38,166 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:03:38,195 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\main\resources
+2018-02-14 00:03:38,197 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:03:38,199 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\test\resources
+2018-02-14 00:05:45,146 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-02-14 00:06:20,511 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-14 00:06:21,445 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.uji.badenas:nuevoProyecto:1.0-SNAPSHOT @ C:\Users\Jorge\MavenProjects\nuevoProyecto\pom.xml.
+2018-02-14 00:06:21,845 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nuevoProyecto/src/main/java
+2018-02-14 00:06:21,847 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nuevoProyecto/src/test/java
+2018-02-14 00:06:22,205 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-02-14 00:06:22,667 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:06:22,671 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\main\resources
+2018-02-14 00:06:22,677 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:06:22,678 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\test\resources
+2018-02-14 00:10:02,778 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:10:02,780 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\main\resources
+2018-02-14 00:10:02,781 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:10:02,782 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\test\resources
+2018-02-14 00:10:17,757 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-14 00:10:18,369 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.uji.badenas:nuevoProyecto:1.0-SNAPSHOT @ C:\Users\Jorge\MavenProjects\nuevoProyecto\pom.xml.
+2018-02-14 00:10:18,542 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nuevoProyecto/src/main/java
+2018-02-14 00:10:18,543 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nuevoProyecto/src/test/java
+2018-02-14 00:10:18,656 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-02-14 00:10:18,843 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:10:18,845 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\main\resources
+2018-02-14 00:10:18,848 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:10:18,849 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\test\resources
+2018-02-14 00:11:52,837 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:11:52,838 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\main\resources
+2018-02-14 00:11:52,840 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:11:52,841 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\test\resources
+2018-02-14 00:13:05,003 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:13:05,004 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\main\resources
+2018-02-14 00:13:05,006 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:13:05,007 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\test\resources
+2018-02-14 00:13:21,083 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-02-14 00:13:21,607 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.uji.badenas:nuevoProyecto:1.0-SNAPSHOT @ C:\Users\Jorge\MavenProjects\nuevoProyecto\pom.xml.
+2018-02-14 00:13:21,760 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nuevoProyecto/src/main/java
+2018-02-14 00:13:21,761 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /nuevoProyecto/src/test/java
+2018-02-14 00:13:22,185 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-02-14 00:13:22,416 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:13:22,417 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\main\resources
+2018-02-14 00:13:22,420 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:13:22,421 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\test\resources
+2018-02-14 00:15:03,927 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:15:03,929 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\main\resources
+2018-02-14 00:15:03,930 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-14 00:15:03,931 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jorge\MavenProjects\nuevoProyecto\src\test\resources
