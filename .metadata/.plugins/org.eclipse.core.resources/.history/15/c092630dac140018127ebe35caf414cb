@@ -28,13 +28,5 @@ public class App
         System.out.print("Introduce la edad: ");
         int edad = entrada.nextInt();
         System.out.println("La edad es: " + edad);
-        
-        System.out.print("Introduce un real: ");
-        double real = entrada.nextDouble();
-        System.out.println("El real es: " + real);
-        
-        System.out.println("Introduce una cadena");
-        cadenaleida = entrada.nextLine();
-        System.out.println("cadena leída " + cadenaleida);
     }
 }

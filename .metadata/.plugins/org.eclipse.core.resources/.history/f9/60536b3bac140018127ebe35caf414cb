@@ -30,7 +30,7 @@ public class App
         System.out.println("La edad es: " + edad);
         
         System.out.print("Introduce un real: ");
-        double real = entrada.nextDouble();
+        double real = entrada.nextInt();
         System.out.println("El real es: " + real);
         
         System.out.println("Introduce una cadena");
