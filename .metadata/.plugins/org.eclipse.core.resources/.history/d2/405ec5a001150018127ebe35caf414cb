@@ -26,19 +26,12 @@ public class App
         System.out.println("cadena leída " + cadenaleida);
         
         System.out.print("Introduce la edad: ");
-        String edadString = entrada.nextLine();
-        int edad = Integer.parseInt(edadString);
-        
-        System.out.print("Introduce un real: ");
-        String realString = entrada.nextLine();
-        double real = Double.parseDouble(realString);
-        
-                //int edad = entrada.nextInt();
+        int edad = entrada.nextInt();
         System.out.println("La edad es: " + edad);
         
-        //System.out.print("Introduce un real: ");
-        //double real = entrada.nextDouble();
-        System.out.printf("El real es: %.2f", real);
+        System.out.print("Introduce un real: ");
+        double real = entrada.nextDouble();
+        System.out.println("El real es: " + real);
         
         System.out.println("Introduce una cadena");
         cadenaleida = entrada.nextLine();

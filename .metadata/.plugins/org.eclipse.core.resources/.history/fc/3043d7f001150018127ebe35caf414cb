@@ -38,7 +38,7 @@ public class App
         
         //System.out.print("Introduce un real: ");
         //double real = entrada.nextDouble();
-        System.out.printf("El real es: %.2f", real);
+        System.out.println("El real es: " + real);
         
         System.out.println("Introduce una cadena");
         cadenaleida = entrada.nextLine();
