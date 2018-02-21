@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 import javax.swing.JOptionPane;
 
+import es.uji.www.GeneradorDatosINE;
+
 /**
  * Hello world!
  *
@@ -14,16 +16,21 @@ public class App
     {
     	int resultado = (int) Math.round(Math.sqrt(9.9));
     	resultado = (int) Math.pow(resultado, 6);
-        String cadena = "El resutado es " + resultado + "obtenido a apartir del número " + 9.9;
+        String cadena = "El resutado es " + resultado + "obtenido a apartir del nï¿½mero " + 9.9;
         String subcadena = cadena.substring(3, cadena.length()-1);
         System.out.println(subcadena);
-        //String s = JOptionPane.showInputDialog("Pásame un mensaje");
+        
+        GeneradorDatosINE generador = new  GeneradorDatosINE();
+        String nombre = generador.getNombre();
+        System.out.println("El nombe es:" + nombre);
+        
+        //String s = JOptionPane.showInputDialog("Pï¿½same un mensaje");
         //System.out.println(s);
         
-        Scanner entrada = new Scanner(System.in);
+        /*Scanner entrada = new Scanner(System.in);
         System.out.println("Introduce una cadena");
         String cadenaleida = entrada.nextLine();
-        System.out.println("cadena leída " + cadenaleida);
+        System.out.println("cadena leï¿½da " + cadenaleida);
         
         System.out.print("Introduce la edad: ");
         String edadString = entrada.nextLine();
@@ -42,6 +49,6 @@ public class App
         
         System.out.println("Introduce una cadena");
         cadenaleida = entrada.nextLine();
-        System.out.println("cadena leída " + cadenaleida);
+        System.out.println("cadena leï¿½da " + cadenaleida);*/
     }
 }
